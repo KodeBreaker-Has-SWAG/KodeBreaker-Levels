@@ -1,0 +1,30 @@
+KodeBreaker Easy
+Difficulty: Easy\\25 Easy but fun and creative levels.\ \
+easy
+shot-kb/MovingPlatforms.png
+5500 3000 1000  100 100 0
+map-kb/Welcome.sol
+map-kb/Sequence.sol
+map-kb/Diagnol.sol
+map-kb/JumpUp.sol
+map-kb/Race.sol
+map-kb/SSS.sol
+map-kb/Spinnerz.sol
+map-kb/Pods.sol
+map-kb/Lap1.sol
+map-kb/BarelyAlive.sol
+map-kb/CrossUp.sol
+map-kb/MovingPlatforms.sol
+map-kb/Circle.sol
+map-kb/CrossDown.sol
+map-kb/Lava.sol
+map-kb/Grow&Shrink.sol
+map-kb/Cones.sol
+map-kb/Teleporting.sol
+map-kb/Remember.sol
+map-kb/JumpCourse.sol
+map-kb/MovingPlatforms2.sol
+map-kb/Thwomped.sol
+map-kb/Diagnol2.sol
+map-kb/Lap2.sol
+map-kb/FidgetSpinner.sol
