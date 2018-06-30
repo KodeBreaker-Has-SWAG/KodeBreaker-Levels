@@ -1,0 +1,6 @@
+KodeBreaker Medium
+Difficulty: Medium through Hard\\More exciting levels but with a\little challenge to it.\ \
+kb2
+shot-kb2/Glassy.png
+200 200 200  100 100 0
+map-kb2/Glassy.sol
