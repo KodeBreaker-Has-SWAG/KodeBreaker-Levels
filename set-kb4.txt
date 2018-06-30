@@ -1,0 +1,6 @@
+KodeBreaker Expert
+Difficulty: Expert through Impossible\\25 extremely hard levels only the\best of the best can beat.\Good Luck. \
+kb4
+shot-kb4/CoinsPro.png
+200 200 200  100 100 0
+map-kb4/CoinsPro.sol
